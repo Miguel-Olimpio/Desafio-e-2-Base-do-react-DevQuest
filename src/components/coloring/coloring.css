@@ -1,0 +1,10 @@
+.cor{
+    border: solid black 1px;
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}

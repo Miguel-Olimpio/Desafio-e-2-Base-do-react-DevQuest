@@ -1,0 +1,9 @@
+.texto{
+    width: 350px;
+    height: 200px;
+    border: none;
+    margin-bottom: 30px;
+    padding: 50px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px black;
+}

@@ -1,0 +1,12 @@
+.formattedtext{
+    width: 80%;
+    height: 20%;
+    min-height: 75px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px black;
+    text-align: center;
+    padding: 20px;
+    overflow-wrap: break-word;
+}
